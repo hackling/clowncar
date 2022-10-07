@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/clowncar/static/css/main.72bf365f.css",
-    "main.js": "/clowncar/static/js/main.e45a0d12.js",
+    "main.js": "/clowncar/static/js/main.4bd686e5.js",
     "static/js/787.3da27d58.chunk.js": "/clowncar/static/js/787.3da27d58.chunk.js",
     "static/media/logo.svg": "/clowncar/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/clowncar/index.html",
     "main.72bf365f.css.map": "/clowncar/static/css/main.72bf365f.css.map",
-    "main.e45a0d12.js.map": "/clowncar/static/js/main.e45a0d12.js.map",
+    "main.4bd686e5.js.map": "/clowncar/static/js/main.4bd686e5.js.map",
     "787.3da27d58.chunk.js.map": "/clowncar/static/js/787.3da27d58.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.72bf365f.css",
-    "static/js/main.e45a0d12.js"
+    "static/js/main.4bd686e5.js"
   ]
 }
